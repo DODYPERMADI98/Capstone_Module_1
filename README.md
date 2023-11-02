@@ -1,46 +1,27 @@
 # >>>>>>>>>>>>READ ME<<<<<<<<<<<<
-Capstone Modul 1 - Data Science - Purwadhika
+Capstone Module 1 - Data Science - Purwadhika
 
-Selamat datang di Perpustakaan JCDS YK! Ini adalah program Python sederhana yang dirancang oleh DODY PERMADI JCDS 02100015 untuk membantu Anda mengelola koleksi buku dalam perpustakaan. 
-Program ini menawarkan berbagai fitur yang memudahkan Anda dalam melihat, menambahkan, memperbarui, menghapus, dan meminjam buku dari perpustakaan. Di bawah ini adalah petunjuk penggunaan lengkap:
+Welcome to the JCDS YK Library! This is a simple Python program designed by DODY PERMADI JCDS 02100015 to help you manage the book collection in the library. This program offers various features to make it easy for you to view, add, update, delete, and borrow books from the library. Below are the complete usage instructions:
 
-Panduan Pengguna
-1. Pastikan Anda telah menginstall Python di komputer Anda.
-2. Unduh atau salin kode program di atas ke dalam file Python (contoh: Library.py) di komputer Anda.
-3. Pastikan Anda telah menginstal pustaka tambahan yang diperlukan, yaitu tabulate dan pyinputplus. Anda dapat menginstalnya dengan menjalankan perintah berikut: pip install tabulate pyinputplus
-4. Jalankan Program: Buka terminal atau cmd, lalu jalankan program dengan perintah berikut: python Library.py
+User Guide:****
+* Make sure you have installed Python on your computer.
+* Download or copy the program code above into a Python file (e.g., Library.py) on your computer.
+* Ensure you have installed the required additional libraries, namely tabulate and pyinputplus. You can install them by running the following command: pip install tabulate pyinputplus
+* Run the Program: Open a terminal or cmd and run the program with the following command: python Library.py<br>
 
-Fitur-Fitur:
-1. Laporan Data Buku
-Lihat semua data buku dalam perpustakaan.
-Cari buku berdasarkan kode buku.
-Cari buku berdasarkan kategori buku.
+Features:<br>
+* Data Book Report View all book data in the library. <br>
+* Search for books by book code. Search for books by book category.<br>
+* Add Book Add a new book to the library by filling in information such as title, author, category, publication year, and stock.<br>
+* Update Book Data Update information of books that are already in the library.<br>
+* Delete Book Data Delete books from the library based on the book code.<br>
+* Borrow Book Borrow books from the library by entering the book code. Users can borrow between 1 and 4 different books.<br>
+* Exit the Program Exit the library program.<br>
 
-3. Tambah Buku
-Tambahkan buku baru ke dalam perpustakaan dengan mengisi informasi seperti judul, penulis, kategori, tahun terbit, dan stok.
+Code Structure: The program code is written in Python and uses some third-party libraries, such as tabulate and pyinputplus. The program code consists of functions for various tasks, such as displaying the menu, adding books, borrowing books, and more. The program uses a main loop to repeatedly run the menu.
 
-5. Perbarui Data Buku
-Perbarui informasi buku yang sudah ada dalam perpustakaan.
+Contact: If you have any questions or suggestions, please contact me through the information provided below.
 
-7. Hapus Data Buku
-Hapus buku dari perpustakaan berdasarkan kode buku.
-
-9. Pinjam Buku
-Pinjam buku dari perpustakaan dengan memasukkan kode buku.
-Pengguna dapat meminjam antara 1 hingga 4 buku yang berbeda.
-
-10. Keluar dari Program
-Keluar dari program perpustakaan.
-
-
-Struktur Kode:
-Kode program menggunakan Python dan beberapa pustaka pihak ketiga, seperti tabulate dan pyinputplus.
-Kode program terdiri dari fungsi-fungsi untuk berbagai tugas seperti menampilkan menu, menambahkan buku, meminjam buku, dan lain-lain.
-Program menggunakan loop utama untuk menjalankan menu secara berulang.
-
-Kontak:
-Jika Anda memiliki pertanyaan atau saran, hubungi saya melalui kontak yang tertera di bawah ini.
-
-dodypermadi.work@gmail.com /
-https://www.instagram.com/dodypermadi_/ /
-https://www.linkedin.com/in/dodypermadi/
+Email: dodypermadi.work@gmail.com<br>
+Instagram: https://www.instagram.com/dodypermadi_/<br>
+LinkedIn: https://www.linkedin.com/in/dodypermadi/<br>
