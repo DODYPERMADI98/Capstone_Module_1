@@ -3,7 +3,7 @@ Capstone Module 1 - Data Science - Purwadhika
 
 Welcome to the JCDS YK Library! This is a simple Python program designed by DODY PERMADI JCDS 02100015 to help you manage the book collection in the library. This program offers various features to make it easy for you to view, add, update, delete, and borrow books from the library. Below are the complete usage instructions:
 
-User Guide:****
+User Guide:
 * Make sure you have installed Python on your computer.
 * Download or copy the program code above into a Python file (e.g., Library.py) on your computer.
 * Ensure you have installed the required additional libraries, namely tabulate and pyinputplus. You can install them by running the following command: pip install tabulate pyinputplus
